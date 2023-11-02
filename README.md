@@ -10,7 +10,7 @@ An app to dynamically generate an SVG logo after a series of prompts has been an
 
 install locally with:
 
-`git clone`
+`git clone https://github.com/larsly/Logo-Generator.git`
 
 ## Usage
 
@@ -18,7 +18,7 @@ From the command line, use npm i to install dependencies.
 Run 'node index.js' in the terminal.
 Follow the prompts to make an SVG
 
-Demonstration: 
+Demonstration: https://drive.google.com/file/d/1gNC2dRPhEFljDfylwBYg9g_SJCqgr4kb/view
 
 ## License
 [Link to MIT License](https://opensource.org/licenses/MIT)
